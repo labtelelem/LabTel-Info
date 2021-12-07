@@ -1,5 +1,5 @@
 # LabTel-Info
-:bulb: Informações a respeito do LabTel UFES.
+## :bulb: Informações a respeito do LabTel UFES.
 
 Criado no ano de 1978, o Laboratório de Telecomunicações (LabTel) é um laboratório vinculado ao Programa de Pós-Graduação em Engenharia Elétrica (PPGEE), do Departamento de Engenharia Elétrica, localizado no Centro Tecnológico da Universidade Federal do Espírito Santo (UFES). Suas linhas de pesquisa são Telecomunicações e Tecnologia da Informação. Além disso, o LabTel conta com dois laboratórios, um dedicado à simulação computacional em comunicações ópticas e o outro exclusivo para a realização de trabalhos experimentais.
 
